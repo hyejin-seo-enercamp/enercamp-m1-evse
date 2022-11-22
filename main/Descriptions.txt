@@ -1,6 +1,3 @@
-# enercamp-m1-evse
-EVSE
-
 2022-07-05
 
 MCU: ESP32

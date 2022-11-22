@@ -1,0 +1,10 @@
+idf_component_register(SRCS "adc.c"
+                            "control_pilot.c"
+                            "gpio.c"
+                            "main.c"
+                            "proximity_pilot.c"
+                            "signal.c"
+                            "timer.c"
+                    INCLUDE_DIRS "."
+                            "inc"
+                    )
